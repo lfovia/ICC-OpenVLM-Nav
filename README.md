@@ -15,4 +15,16 @@ Through this work we try to see the suitability of open VLM's like CLIP, BLIP an
 
 ![trajectory](assets/traj.png)
 
+## Citation
 
+If you use this work, please cite:
+
+```bibtex
+@inproceedings{r2025openvlmnav,
+  title={Open{VLM}-Nav: Training-Free Zero-Shot Object-Goal Navigation via Vision-Language Guidance},
+  author={Athira Krishnan R and Swapnil Bag and Sumohana S. Channappayya},
+  booktitle={Submitted to Indian Control Conference 2025 Workshop on Advances in AI-Driven Control and Estimation for Robotics and Autonomous Systems},
+  year={2025},
+  url={https://openreview.net/forum?id=NzYQd6TLW2},
+  note={under review}
+}
