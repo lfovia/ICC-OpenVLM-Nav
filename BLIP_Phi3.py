@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-zero_shot_blip_phi3_objnav.py
+
 -------------------------------------
 Zero-shot Object Navigation using BLIP for perception + Phi-3-mini for reasoning.
 Lightweight alternative to Qwen2-VL.

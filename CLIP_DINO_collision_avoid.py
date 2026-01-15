@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-zero_shot_clip_dirnav_hybrid_with_recovery.py
+
 
 Same as your CLIP+DINO explore/servo script but with robust collision detection & recovery.
 """

@@ -12,7 +12,7 @@ Pipeline:
 5. Simple step-based policy for navigation
 6. Logs metrics + renders videos per episode
 
-Author: Athira Krishnan R (2025)
+Author: Athira Krishnan R (2025), Swapnil Bag
 Adapted: added short history context for improved reasoning
 """
 

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-zero_shot_clip_phi3_objnav.py
+
 -------------------------------------
 Zero-shot Object Navigation using CLIP for perception + Phi-3-mini for reasoning.
-Author: Athira Krishnan R (2025)
+Author: Athira Krishnan R (2025), Swapnil Bag
 """
 
 import os
