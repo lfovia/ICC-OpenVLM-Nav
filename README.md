@@ -26,5 +26,5 @@ If you use this work, please cite:
   booktitle={Submitted to Indian Control Conference 2025 Workshop on Advances in AI-Driven Control and Estimation for Robotics and Autonomous Systems},
   year={2025},
   url={https://openreview.net/forum?id=NzYQd6TLW2},
-  note={under review}
+  note={Accepted (Oral)}
 }
